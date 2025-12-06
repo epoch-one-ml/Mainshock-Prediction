@@ -3,3 +3,5 @@ In recent months, Bangladesh has experienced a surge in seismic activity, culmin
 
 
 **Paper Link** will be available if published in the submitted conference. 
+
+Report.PDF is not the original research paper. Instead, it is a summary of the research paper. 
